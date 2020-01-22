@@ -38,7 +38,7 @@ Because we are pulling down results for each postcode and then combining in one 
 The code for this stage can be found in `cleaner.py`.
 
 ### Applying Boundaries
-The next stage is to determine the appropriate Broad Rental Market Area (BRMA) for each property, as these are the boundaries that determine the mount of LHA per area and then determine whether it would be affordable for the local amount fo LHA.
+The next stage is to determine the appropriate Broad Rental Market Area (BRMA) for each property, as these are the boundaries that determine the amount of LHA per area and then determine whether it would be affordable for the local amount of LHA.
 
 We obtained the shapefiles from the government’s [Valuation Office Agency (VOA)](https://www.gov.uk/government/organisations/valuation-office-agency).
 
